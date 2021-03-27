@@ -42,7 +42,7 @@
 
 	<target name="reset">
 		<delete includeemptydirs="true">
-			<fileset dir="${bin}/cs681"/>
+			<fileset dir="${bin}"/>
 		</delete>
 	</target>
 
